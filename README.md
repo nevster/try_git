@@ -2,4 +2,4 @@
 
 This is a test
 
-Adding a line
+Adding and removing a line
